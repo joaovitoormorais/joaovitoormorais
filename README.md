@@ -8,5 +8,5 @@
 - 💬 Sou formado em análise e desenvolvimento de sistemas
 - 📫 Entre em contato comigo pelo meu Linkedin: https://www.linkedin.com/in/jo%C3%A3o-vitor-morais-4862112a7/
 
- - <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ -  Tecnologias : <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
