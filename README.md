@@ -10,7 +10,7 @@
 
 
 
-- 🌐Contato: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jo%C3%A3o-vitor-morais-4862112a7/)  <a href="mailto:joao.vpereira@a.ficr.edu.br">
+- 🌐Contato: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jo%C3%A3o-vitor-morais-4862112a7/)  <a href="mailto:joao.vpereira@a.ficr.edu.br">  ![Angular Logo](./assets/angular-logo.png)
     
 
 </a>
