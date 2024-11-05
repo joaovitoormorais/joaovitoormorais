@@ -12,7 +12,7 @@
 
 
 - 🌐Contato: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jo%C3%A3o-vitor-morais-4862112a7/)   <a href="mailto:joao.vpereira@ficr.edu.br">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/120px-Mail_%28iOS%29.svg.png" alt="Caixa de E-mail" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/120px-Mail_%28iOS%29.svg.png" alt="Caixa de E-mail" width="35" height="35">
 </a>
 
 
