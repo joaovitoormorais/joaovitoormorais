@@ -12,8 +12,6 @@
 
 
 - 🌐Contato: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jo%C3%A3o-vitor-morais-4862112a7/)   <a href="mailto:joao.vpereira@ficr.edu.br">
-    <img src="caminho/para/sua_imagem.png" alt="Caixa de E-mail" style="width:50px; height:50px;">
-</a>  <a href="mailto:joao.vpereira@ficr.edu.br">
     <img src="./imagens/caixa-email.png" alt="Caixa de E-mail" style="width:50px; height:50px;">
 </a>
 
