@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Vitor Morais, futuro desenvolvedor se Deus quiser!
 
-- 🔭 Atualmente programa na linguagem Java e em Javascript com Angular
+- 🔭 Atualmente programa na linguagem Java e em Typescript com Angular
 - 🌱Estudo programação na Fuctura Tecnologia
 - 👯 Pretendo atuar como desenvolvedor de Software e estou buscando meu primeiro emprego na área
 - 🤹🏼 Tenho habilidades en Lógica de programação, Java, SQL, Html, Css, Springboot, Javascript básico, Angular
