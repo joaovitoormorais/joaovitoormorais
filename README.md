@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Vitor Morais, futuro desenvolvedor se Deus quiser!
+##Hello I am joão vitor Morais
 
 - 🔭 Atualmente programa na linguagem Java e em Typescript com Angular
 - 🌱Estudo programação na Fuctura Tecnologia
