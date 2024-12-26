@@ -1,4 +1,4 @@
-# Hello I am joão vitor Morais
+# Hello I am João Vitor Morais
 
 - 🔭 Atualmente programa na linguagem Java e em Typescript com Angular
 - 🌱Estudo programação na Fuctura Tecnologia
